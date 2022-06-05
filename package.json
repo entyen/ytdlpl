@@ -1,0 +1,16 @@
+{
+  "name": "ytdownload",
+  "version": "1.0.0",
+  "description": "Download youtube playlist as mp3 files folder",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Entyen",
+  "license": "ISC",
+  "dependencies": {
+    "ymp3d": "^1.0.2",
+    "youtube-mp3-downloader": "^0.7.10",
+    "ytpl": "^2.3.0"
+  }
+}
